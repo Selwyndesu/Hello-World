@@ -5,7 +5,8 @@ const resetBtn = document.querySelector("#resetBtn");
 const gameWidth = gameBoard.width;
 const gameHeight = gameBoard.height;
 const boardBackground = "white";
-const snakeColor = "red";
+const snakeColor = "gray";
+
 const snakeborder = "black";
 const foodColor = "red";
 const unitSize = 25;
